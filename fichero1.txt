@@ -1,1 +1,3 @@
 git status
+ahora voy a hacer un cambio
+git status
